@@ -1,0 +1,1337 @@
+{
+          "UIParts": [
+        {
+          "UIAnchors": {
+            "XMin": 0.0,
+            "XMax": 1.0,
+            "YMin": 0.0,
+            "YMax": 1.0
+          },
+          "UIOffsets": {
+            "Enabled": false,
+            "XMin": 0.0,
+            "XMax": 0.0,
+            "YMin": 0.0,
+            "YMax": 0.0
+          },
+          "UIProperties": {
+            "Color": "0 0 0 .5",
+            "Blur": false,
+            "Material": "",
+            "FadeIn": 1.0,
+            "Image": "",
+            "EnableCursor": true,
+            "Command": ""
+          },
+          "UIText": {
+            "Text": "",
+            "Size": 15,
+            "Font": "robotocondensed-bold.ttf",
+            "Color": "1 1 1 1",
+            "Alignment": 4
+          },
+          "UILoopSettings": {
+            "Loop": false,
+            "Spacing": 0.15,
+            "Vertical": true
+          },
+          "UIChildren": [
+            {
+              "UIAnchors": {
+                "XMin": 0.18000000000000002,
+                "XMax": 0.82,
+                "YMin": 0.15,
+                "YMax": 0.85
+              },
+              "UIOffsets": {
+                "Enabled": false,
+                "XMin": 0.0,
+                "XMax": 0.0,
+                "YMin": 0.0,
+                "YMax": 0.0
+              },
+              "UIProperties": {
+                "Color": "0.2 0.2 0.2 0",
+                "Blur": false,
+                "Material": "",
+                "FadeIn": 0.0,
+                "Image": "",
+                "EnableCursor": false,
+                "Command": ""
+              },
+              "UIText": {
+                "Text": "",
+                "Size": 15,
+                "Font": "robotocondensed-bold.ttf",
+                "Color": "1 1 1 1",
+                "Alignment": 4
+              },
+              "UILoopSettings": {
+                "Loop": false,
+                "Spacing": 0.15,
+                "Vertical": true
+              },
+              "UIChildren": [
+                {
+                  "UIAnchors": {
+                    "XMin": -3.4694469519536142E-18,
+                    "XMax": 0.203,
+                    "YMin": 0.03,
+                    "YMax": 0.81
+                  },
+                  "UIOffsets": {
+                    "Enabled": false,
+                    "XMin": 0.0,
+                    "XMax": 0.0,
+                    "YMin": 0.0,
+                    "YMax": 0.0
+                  },
+                  "UIProperties": {
+                    "Color": "0 0 0 0",
+                    "Blur": false,
+                    "Material": "",
+                    "FadeIn": 0.0,
+                    "Image": "",
+                    "EnableCursor": false,
+                    "Command": ""
+                  },
+                  "UIText": {
+                    "Text": "",
+                    "Size": 15,
+                    "Font": "robotocondensed-bold.ttf",
+                    "Color": "1 1 1 1",
+                    "Alignment": 4
+                  },
+                  "UILoopSettings": {
+                    "Loop": false,
+                    "Spacing": 0.15,
+                    "Vertical": true
+                  },
+                  "UIChildren": [
+                    {
+                      "UIAnchors": {
+                        "XMin": 0.0,
+                        "XMax": 1.0,
+                        "YMin": 0.91,
+                        "YMax": 0.99
+                      },
+                      "UIOffsets": {
+                        "Enabled": false,
+                        "XMin": 0.0,
+                        "XMax": 0.0,
+                        "YMin": 0.0,
+                        "YMax": 0.0
+                      },
+                      "UIProperties": {
+                        "Color": "0 0 0 .5",
+                        "Blur": false,
+                        "Material": "",
+                        "FadeIn": 0.0,
+                        "Image": "",
+                        "EnableCursor": false,
+                        "Command": ""
+                      },
+                      "UIText": {
+                        "Text": "",
+                        "Size": 15,
+                        "Font": "robotocondensed-bold.ttf",
+                        "Color": "1 1 1 .9",
+                        "Alignment": 4
+                      },
+                      "UILoopSettings": {
+                        "Loop": true,
+                        "Spacing": 0.01,
+                        "Vertical": true
+                      },
+                      "UIChildren": [],
+                      "UIName": "ButtonSettings",
+                      "UIParent": "",
+                      "FullyEdit": false
+                    },
+                    {
+                      "UIAnchors": {
+                        "XMin": 0.0,
+                        "XMax": 1.0,
+                        "YMin": 0.0,
+                        "YMax": 1.0
+                      },
+                      "UIOffsets": {
+                        "Enabled": false,
+                        "XMin": 0.0,
+                        "XMax": 0.0,
+                        "YMin": 0.0,
+                        "YMax": 0.0
+                      },
+                      "UIProperties": {
+                        "Color": ".36 .60 1 0.8",
+                        "Blur": false,
+                        "Material": "",
+                        "FadeIn": 0.0,
+                        "Image": "",
+                        "EnableCursor": false,
+                        "Command": ""
+                      },
+                      "UIText": {
+                        "Text": "",
+                        "Size": 15,
+                        "Font": "robotocondensed-bold.ttf",
+                        "Color": "1 1 1 1",
+                        "Alignment": 4
+                      },
+                      "UILoopSettings": {
+                        "Loop": false,
+                        "Spacing": 0.15,
+                        "Vertical": true
+                      },
+                      "UIChildren": [],
+                      "UIName": "SelectedButtonOverlay",
+                      "UIParent": "",
+                      "FullyEdit": false
+                    }
+                  ],
+                  "UIName": "ButtonPanel",
+                  "UIParent": "",
+                  "FullyEdit": false
+                },
+                {
+                  "UIAnchors": {
+                    "XMin": 0.0,
+                    "XMax": 1.0,
+                    "YMin": 0.9,
+                    "YMax": 1.0
+                  },
+                  "UIOffsets": {
+                    "Enabled": false,
+                    "XMin": 0.0,
+                    "XMax": 0.0,
+                    "YMin": 0.0,
+                    "YMax": 0.0
+                  },
+                  "UIProperties": {
+                    "Color": "0 0 0 .5",
+                    "Blur": false,
+                    "Material": "",
+                    "FadeIn": 0.0,
+                    "Image": "",
+                    "EnableCursor": false,
+                    "Command": ""
+                  },
+                  "UIText": {
+                    "Text": "{hostName}",
+                    "Size": 25,
+                    "Font": "robotocondensed-bold.ttf",
+                    "Color": "1 1 1 1",
+                    "Alignment": 4
+                  },
+                  "UILoopSettings": {
+                    "Loop": false,
+                    "Spacing": 0.15,
+                    "Vertical": true
+                  },
+                  "UIChildren": [
+                    {
+                      "UIAnchors": {
+                        "XMin": 0.95,
+                        "XMax": 1.0,
+                        "YMin": 0.0,
+                        "YMax": 1.0
+                      },
+                      "UIOffsets": {
+                        "Enabled": false,
+                        "XMin": 0.0,
+                        "XMax": 0.0,
+                        "YMin": 0.0,
+                        "YMax": 0.0
+                      },
+                      "UIProperties": {
+                        "Color": "0 0 0 0",
+                        "Blur": false,
+                        "Material": "",
+                        "FadeIn": 0.0,
+                        "Image": "",
+                        "EnableCursor": true,
+                        "Command": "wc_main close"
+                      },
+                      "UIText": {
+                        "Text": "X",
+                        "Size": 30,
+                        "Font": "robotocondensed-bold.ttf",
+                        "Color": "1 1 1 1",
+                        "Alignment": 4
+                      },
+                      "UILoopSettings": {
+                        "Loop": false,
+                        "Spacing": 0.15,
+                        "Vertical": true
+                      },
+                      "UIChildren": [],
+                      "UIName": "CloseButton",
+                      "UIParent": "",
+                      "FullyEdit": true
+                    }
+                  ],
+                  "UIName": "TitlePanel",
+                  "UIParent": "",
+                  "FullyEdit": true
+                },
+                {
+                  "UIAnchors": {
+                    "XMin": 0.20999999999999996,
+                    "XMax": 0.998,
+                    "YMin": 0.03,
+                    "YMax": 0.887
+                  },
+                  "UIOffsets": {
+                    "Enabled": false,
+                    "XMin": 0.0,
+                    "XMax": 0.0,
+                    "YMin": 0.0,
+                    "YMax": 0.0
+                  },
+                  "UIProperties": {
+                    "Color": "0 0 0 0",
+                    "Blur": false,
+                    "Material": "",
+                    "FadeIn": 0.0,
+                    "Image": "",
+                    "EnableCursor": false,
+                    "Command": ""
+                  },
+                  "UIText": {
+                    "Text": "",
+                    "Size": 15,
+                    "Font": "robotocondensed-bold.ttf",
+                    "Color": "1 1 1 1",
+                    "Alignment": 4
+                  },
+                  "UILoopSettings": {
+                    "Loop": false,
+                    "Spacing": 0.15,
+                    "Vertical": true
+                  },
+                  "UIChildren": [
+                    {
+                      "UIAnchors": {
+                        "XMin": 0.0,
+                        "XMax": 1.0,
+                        "YMin": 0.0,
+                        "YMax": 1.0
+                      },
+                      "UIOffsets": {
+                        "Enabled": false,
+                        "XMin": 0.0,
+                        "XMax": 0.0,
+                        "YMin": 0.0,
+                        "YMax": 0.0
+                      },
+                      "UIProperties": {
+                        "Color": "0 0 0 0",
+                        "Blur": false,
+                        "Material": "",
+                        "FadeIn": 0.0,
+                        "Image": "",
+                        "EnableCursor": false,
+                        "Command": ""
+                      },
+                      "UIText": {
+                        "Text": "",
+                        "Size": 15,
+                        "Font": "robotocondensed-bold.ttf",
+                        "Color": "1 1 1 1",
+                        "Alignment": 4
+                      },
+                      "UILoopSettings": {
+                        "Loop": false,
+                        "Spacing": 0.15,
+                        "Vertical": true
+                      },
+                      "UIChildren": [
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.0,
+                            "XMax": 1.0,
+                            "YMin": 0.91,
+                            "YMax": 1.0
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 .5",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": ""
+                          },
+                          "UIText": {
+                            "Text": "INFO",
+                            "Size": 30,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 4
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [],
+                          "UIName": "PanelTitle",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        },
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.0,
+                            "XMax": 1.0,
+                            "YMin": 0.0,
+                            "YMax": 0.9
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 .5",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": ""
+                          },
+                          "UIText": {
+                            "Text": "",
+                            "Size": 15,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 4
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [
+                            {
+                              "UIAnchors": {
+                                "XMin": 0.01,
+                                "XMax": 0.99,
+                                "YMin": 0.02,
+                                "YMax": 0.98
+                              },
+                              "UIOffsets": {
+                                "Enabled": false,
+                                "XMin": 0.0,
+                                "XMax": 0.0,
+                                "YMin": 0.0,
+                                "YMax": 0.0
+                              },
+                              "UIProperties": {
+                                "Color": "0 0 0 0",
+                                "Blur": false,
+                                "Material": "",
+                                "FadeIn": 0.0,
+                                "Image": "",
+                                "EnableCursor": false,
+                                "Command": ""
+                              },
+                              "UIText": {
+                                "Text": "",
+                                "Size": 15,
+                                "Font": "robotocondensed-bold.ttf",
+                                "Color": "1 1 1 1",
+                                "Alignment": 0
+                              },
+                              "UILoopSettings": {
+                                "Loop": false,
+                                "Spacing": 0.15,
+                                "Vertical": true
+                              },
+                              "UIChildren": [],
+                              "UIName": "TextPanelInlay",
+                              "UIParent": "",
+                              "FullyEdit": false
+                            }
+                          ],
+                          "UIName": "TextPanel",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        }
+                      ],
+                      "UIName": "TextPanel_V1",
+                      "UIParent": "",
+                      "FullyEdit": false
+                    },
+                    {
+                      "UIAnchors": {
+                        "XMin": 0.0,
+                        "XMax": 1.0,
+                        "YMin": 0.0,
+                        "YMax": 1.0
+                      },
+                      "UIOffsets": {
+                        "Enabled": false,
+                        "XMin": 0.0,
+                        "XMax": 0.0,
+                        "YMin": 0.0,
+                        "YMax": 0.0
+                      },
+                      "UIProperties": {
+                        "Color": "0 0 0 0",
+                        "Blur": false,
+                        "Material": "",
+                        "FadeIn": 0.0,
+                        "Image": "",
+                        "EnableCursor": false,
+                        "Command": ""
+                      },
+                      "UIText": {
+                        "Text": "",
+                        "Size": 15,
+                        "Font": "robotocondensed-bold.ttf",
+                        "Color": "1 1 1 1",
+                        "Alignment": 4
+                      },
+                      "UILoopSettings": {
+                        "Loop": false,
+                        "Spacing": 0.15,
+                        "Vertical": true
+                      },
+                      "UIChildren": [
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.0,
+                            "XMax": 1.0,
+                            "YMin": 0.91,
+                            "YMax": 1.0
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 .5",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": ""
+                          },
+                          "UIText": {
+                            "Text": "INFO",
+                            "Size": 30,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 4
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [],
+                          "UIName": "PanelTitle",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        },
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.0,
+                            "XMax": 1.0,
+                            "YMin": 0.13,
+                            "YMax": 0.9
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 .5",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": ""
+                          },
+                          "UIText": {
+                            "Text": "",
+                            "Size": 15,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 4
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [
+                            {
+                              "UIAnchors": {
+                                "XMin": 0.01,
+                                "XMax": 0.99,
+                                "YMin": 0.02,
+                                "YMax": 0.98
+                              },
+                              "UIOffsets": {
+                                "Enabled": false,
+                                "XMin": 0.0,
+                                "XMax": 0.0,
+                                "YMin": 0.0,
+                                "YMax": 0.0
+                              },
+                              "UIProperties": {
+                                "Color": "0 0 0 0",
+                                "Blur": false,
+                                "Material": "",
+                                "FadeIn": 0.0,
+                                "Image": "",
+                                "EnableCursor": false,
+                                "Command": ""
+                              },
+                              "UIText": {
+                                "Text": "",
+                                "Size": 15,
+                                "Font": "robotocondensed-bold.ttf",
+                                "Color": "1 1 1 1",
+                                "Alignment": 0
+                              },
+                              "UILoopSettings": {
+                                "Loop": false,
+                                "Spacing": 0.15,
+                                "Vertical": true
+                              },
+                              "UIChildren": [],
+                              "UIName": "TextPanelInlay",
+                              "UIParent": "",
+                              "FullyEdit": false
+                            }
+                          ],
+                          "UIName": "TextPanel",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        },
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.0,
+                            "XMax": 0.99,
+                            "YMin": 0.0,
+                            "YMax": 0.12
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 .5",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": ""
+                          },
+                          "UIText": {
+                            "Text": "",
+                            "Size": 15,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 0
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [],
+                          "UIName": "BottomImage",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        }
+                      ],
+                      "UIName": "TextPanel_V2",
+                      "UIParent": "",
+                      "FullyEdit": false
+                    },
+                    {
+                      "UIAnchors": {
+                        "XMin": 0.0,
+                        "XMax": 1.0,
+                        "YMin": 0.0,
+                        "YMax": 1.0
+                      },
+                      "UIOffsets": {
+                        "Enabled": false,
+                        "XMin": 0.0,
+                        "XMax": 0.0,
+                        "YMin": 0.0,
+                        "YMax": 0.0
+                      },
+                      "UIProperties": {
+                        "Color": "0 0 0 0",
+                        "Blur": false,
+                        "Material": "",
+                        "FadeIn": 0.0,
+                        "Image": "",
+                        "EnableCursor": false,
+                        "Command": ""
+                      },
+                      "UIText": {
+                        "Text": "",
+                        "Size": 15,
+                        "Font": "robotocondensed-bold.ttf",
+                        "Color": "1 1 1 1",
+                        "Alignment": 4
+                      },
+                      "UILoopSettings": {
+                        "Loop": false,
+                        "Spacing": 0.15,
+                        "Vertical": true
+                      },
+                      "UIChildren": [
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.0,
+                            "XMax": 1.0,
+                            "YMin": 0.91,
+                            "YMax": 1.0
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 .5",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": ""
+                          },
+                          "UIText": {
+                            "Text": "",
+                            "Size": 30,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 4
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [],
+                          "UIName": "PanelTitle",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        },
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.0,
+                            "XMax": 1.0,
+                            "YMin": 0.09,
+                            "YMax": 0.9
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 .5",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": ""
+                          },
+                          "UIText": {
+                            "Text": "",
+                            "Size": 15,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 4
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [
+                            {
+                              "UIAnchors": {
+                                "XMin": 0.01,
+                                "XMax": 0.99,
+                                "YMin": 0.02,
+                                "YMax": 0.98
+                              },
+                              "UIOffsets": {
+                                "Enabled": false,
+                                "XMin": 0.0,
+                                "XMax": 0.0,
+                                "YMin": 0.0,
+                                "YMax": 0.0
+                              },
+                              "UIProperties": {
+                                "Color": "0 0 0 0",
+                                "Blur": false,
+                                "Material": "",
+                                "FadeIn": 0.0,
+                                "Image": "",
+                                "EnableCursor": false,
+                                "Command": ""
+                              },
+                              "UIText": {
+                                "Text": "",
+                                "Size": 15,
+                                "Font": "robotocondensed-bold.ttf",
+                                "Color": "1 1 1 1",
+                                "Alignment": 0
+                              },
+                              "UILoopSettings": {
+                                "Loop": false,
+                                "Spacing": 0.15,
+                                "Vertical": true
+                              },
+                              "UIChildren": [],
+                              "UIName": "TextPanelInlay",
+                              "UIParent": "",
+                              "FullyEdit": false
+                            }
+                          ],
+                          "UIName": "TextPanel",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        },
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.0,
+                            "XMax": 0.496,
+                            "YMin": 0.0,
+                            "YMax": 0.08
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 .55",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": "wc_main page last"
+                          },
+                          "UIText": {
+                            "Text": "<",
+                            "Size": 20,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 4
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [],
+                          "UIName": "LeftButton",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        },
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.503,
+                            "XMax": 1.0,
+                            "YMin": 0.0,
+                            "YMax": 0.08
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 .55",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": "wc_main page next"
+                          },
+                          "UIText": {
+                            "Text": ">",
+                            "Size": 20,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 4
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [],
+                          "UIName": "RightButton",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        }
+                      ],
+                      "UIName": "TextPanel_V3",
+                      "UIParent": "",
+                      "FullyEdit": false
+                    },
+                    {
+                      "UIAnchors": {
+                        "XMin": 0.0,
+                        "XMax": 1.0,
+                        "YMin": 0.0,
+                        "YMax": 1.0
+                      },
+                      "UIOffsets": {
+                        "Enabled": false,
+                        "XMin": 0.0,
+                        "XMax": 0.0,
+                        "YMin": 0.0,
+                        "YMax": 0.0
+                      },
+                      "UIProperties": {
+                        "Color": "0 0 0 0",
+                        "Blur": false,
+                        "Material": "",
+                        "FadeIn": 0.0,
+                        "Image": "",
+                        "EnableCursor": false,
+                        "Command": ""
+                      },
+                      "UIText": {
+                        "Text": "",
+                        "Size": 15,
+                        "Font": "robotocondensed-bold.ttf",
+                        "Color": "1 1 1 1",
+                        "Alignment": 4
+                      },
+                      "UILoopSettings": {
+                        "Loop": false,
+                        "Spacing": 0.15,
+                        "Vertical": true
+                      },
+                      "UIChildren": [
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.0,
+                            "XMax": 1.0,
+                            "YMin": 0.91,
+                            "YMax": 1.0
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 .5",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": ""
+                          },
+                          "UIText": {
+                            "Text": "INFO",
+                            "Size": 30,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 4
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [],
+                          "UIName": "PanelTitle",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        },
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.0,
+                            "XMax": 1.0,
+                            "YMin": 0.22,
+                            "YMax": 0.9
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 .5",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": ""
+                          },
+                          "UIText": {
+                            "Text": "",
+                            "Size": 15,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 4
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [
+                            {
+                              "UIAnchors": {
+                                "XMin": 0.01,
+                                "XMax": 0.99,
+                                "YMin": 0.02,
+                                "YMax": 0.98
+                              },
+                              "UIOffsets": {
+                                "Enabled": false,
+                                "XMin": 0.0,
+                                "XMax": 0.0,
+                                "YMin": 0.0,
+                                "YMax": 0.0
+                              },
+                              "UIProperties": {
+                                "Color": "0 0 0 0",
+                                "Blur": false,
+                                "Material": "",
+                                "FadeIn": 0.0,
+                                "Image": "",
+                                "EnableCursor": false,
+                                "Command": ""
+                              },
+                              "UIText": {
+                                "Text": "",
+                                "Size": 15,
+                                "Font": "robotocondensed-bold.ttf",
+                                "Color": "1 1 1 1",
+                                "Alignment": 0
+                              },
+                              "UILoopSettings": {
+                                "Loop": false,
+                                "Spacing": 0.15,
+                                "Vertical": true
+                              },
+                              "UIChildren": [],
+                              "UIName": "TextPanelInlay",
+                              "UIParent": "",
+                              "FullyEdit": false
+                            }
+                          ],
+                          "UIName": "TextPanel",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        },
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.0,
+                            "XMax": 0.496,
+                            "YMin": 0.13,
+                            "YMax": 0.21000000000000005
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 .55",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": "wc_main page last"
+                          },
+                          "UIText": {
+                            "Text": "<",
+                            "Size": 20,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 4
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [],
+                          "UIName": "LeftButton",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        },
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.504,
+                            "XMax": 1.0,
+                            "YMin": 0.13,
+                            "YMax": 0.21
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 .55",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": "wc_main page next"
+                          },
+                          "UIText": {
+                            "Text": ">",
+                            "Size": 20,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 4
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [],
+                          "UIName": "RightButton",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        },
+                        {
+                          "UIAnchors": {
+                            "XMin": 0.0,
+                            "XMax": 1.0,
+                            "YMin": -3.4694469519536142E-18,
+                            "YMax": 0.11999999999999993
+                          },
+                          "UIOffsets": {
+                            "Enabled": false,
+                            "XMin": 0.0,
+                            "XMax": 0.0,
+                            "YMin": 0.0,
+                            "YMax": 0.0
+                          },
+                          "UIProperties": {
+                            "Color": "0 0 0 0",
+                            "Blur": false,
+                            "Material": "",
+                            "FadeIn": 0.0,
+                            "Image": "",
+                            "EnableCursor": false,
+                            "Command": ""
+                          },
+                          "UIText": {
+                            "Text": "",
+                            "Size": 15,
+                            "Font": "robotocondensed-bold.ttf",
+                            "Color": "1 1 1 1",
+                            "Alignment": 0
+                          },
+                          "UILoopSettings": {
+                            "Loop": false,
+                            "Spacing": 0.15,
+                            "Vertical": true
+                          },
+                          "UIChildren": [],
+                          "UIName": "BottomImage",
+                          "UIParent": "",
+                          "FullyEdit": false
+                        }
+                      ],
+                      "UIName": "TextPanel_V4",
+                      "UIParent": "",
+                      "FullyEdit": false
+                    },
+                    {
+                      "UIAnchors": {
+                        "XMin": 0.0,
+                        "XMax": 1.0,
+                        "YMin": 0.0,
+                        "YMax": 1.0
+                      },
+                      "UIOffsets": {
+                        "Enabled": false,
+                        "XMin": 0.0,
+                        "XMax": 0.0,
+                        "YMin": 0.0,
+                        "YMax": 0.0
+                      },
+                      "UIProperties": {
+                        "Color": "0 0 0 .5",
+                        "Blur": false,
+                        "Material": "",
+                        "FadeIn": 0.0,
+                        "Image": "",
+                        "EnableCursor": false,
+                        "Command": ""
+                      },
+                      "UIText": {
+                        "Text": "",
+                        "Size": 15,
+                        "Font": "robotocondensed-bold.ttf",
+                        "Color": "1 1 1 1",
+                        "Alignment": 4
+                      },
+                      "UILoopSettings": {
+                        "Loop": false,
+                        "Spacing": 0.15,
+                        "Vertical": true
+                      },
+                      "UIChildren": [],
+                      "UIName": "NoPerms",
+                      "UIParent": "",
+                      "FullyEdit": true
+                    }
+                  ],
+                  "UIName": "WCSourcePanel",
+                  "UIParent": "",
+                  "FullyEdit": false
+                },
+                {
+                  "UIAnchors": {
+                    "XMin": 0.0,
+                    "XMax": 0.204,
+                    "YMin": 0.8135,
+                    "YMax": 0.891
+                  },
+                  "UIOffsets": {
+                    "Enabled": false,
+                    "XMin": 0.0,
+                    "XMax": 0.0,
+                    "YMin": 0.0,
+                    "YMax": 0.0
+                  },
+                  "UIProperties": {
+                    "Color": "0 0 0 .5",
+                    "Blur": false,
+                    "Material": "",
+                    "FadeIn": 0.0,
+                    "Image": "",
+                    "EnableCursor": false,
+                    "Command": ""
+                  },
+                  "UIText": {
+                    "Text": "{online} / {maxPlayers} ONLINE!",
+                    "Size": 20,
+                    "Font": "robotocondensed-bold.ttf",
+                    "Color": "1 1 1 .8",
+                    "Alignment": 4
+                  },
+                  "UILoopSettings": {
+                    "Loop": false,
+                    "Spacing": 0.15,
+                    "Vertical": true
+                  },
+                  "UIChildren": [],
+                  "UIName": "MainImage",
+                  "UIParent": "",
+                  "FullyEdit": true
+                },
+                {
+                  "UIAnchors": {
+                    "XMin": 0.0,
+                    "XMax": 1.0,
+                    "YMin": 1.01,
+                    "YMax": 1.09
+                  },
+                  "UIOffsets": {
+                    "Enabled": false,
+                    "XMin": 0.0,
+                    "XMax": 0.0,
+                    "YMin": 0.0,
+                    "YMax": 0.0
+                  },
+                  "UIProperties": {
+                    "Color": "0 0 0 .5",
+                    "Blur": false,
+                    "Material": "",
+                    "FadeIn": 0.0,
+                    "Image": "",
+                    "EnableCursor": false,
+                    "Command": ""
+                  },
+                  "UIText": {
+                    "Text": "",
+                    "Size": 15,
+                    "Font": "robotocondensed-bold.ttf",
+                    "Color": "1 1 1 1",
+                    "Alignment": 4
+                  },
+                  "UILoopSettings": {
+                    "Loop": false,
+                    "Spacing": 0.15,
+                    "Vertical": true
+                  },
+                  "UIChildren": [],
+                  "UIName": "WCSocialsPanel",
+                  "UIParent": "",
+                  "FullyEdit": true
+                }
+              ],
+              "UIName": "BackgroundColorOverlay",
+              "UIParent": "",
+              "FullyEdit": true
+            }
+          ],
+          "UIName": "BackgroundPanel",
+          "UIParent": "Overlay",
+          "FullyEdit": false
+        }
+      ],
+}
