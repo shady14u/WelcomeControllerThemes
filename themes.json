@@ -1,0 +1,16 @@
+{
+  "themes": [
+    {
+      "ThemeImage": "original.png",
+      "ThemeName": "original"
+    },
+    {
+      "ThemeImage": "rustish.png",
+      "ThemeName": "rustish"
+    },
+    {
+      "ThemeImage": "simple.png",
+      "ThemeName": "simple"
+    }
+  ]
+}
